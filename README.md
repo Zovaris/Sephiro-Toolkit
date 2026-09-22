@@ -87,6 +87,10 @@ Presets: `default`, `dark`, `light`, `asterism`, `fizza`, and `pulso`. Multiple 
 
 Buttons and form controls, menus and command surfaces, dialogs and popovers, tabs and toolbars, tables, notifications, layout primitives, and more. Import components directly from `@zovaris/sephiro` and let TypeScript guide their props.
 
+## License
+
+The current Sephiro codebase and future npm releases use the [PolyForm Perimeter License 1.0.0](./LICENSE), a source-available license that restricts using Sephiro to provide a competing product. It permits using the package in products that do not compete with Sephiro. See [NOTICE](./NOTICE) for the required copyright notice. Previously published npm versions remain under the license included with each release.
+
 ## Links
 
 - [Website](https://sephiro.justcallmebryan.com)
